@@ -4,7 +4,7 @@ import smtplib
 import time
 
 MY_LAT = 28.419411
-MY_LONG = --81.581200
+MY_LONG = -81.581200
 
 parameters = {
     "lat": MY_LAT,
